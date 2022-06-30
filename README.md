@@ -1,2 +1,5 @@
 # GameOfLife
-Recreation of John Conway's Game of Life using cell automata and javaFX
+Recreation of John Conway's Game of Life 
+# What I Learned
+  - Cell Automata
+  - JavaFX
